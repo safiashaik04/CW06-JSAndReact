@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ClassWork6-React/static/css/main.ea65f660.css",
-    "main.js": "/ClassWork6-React/static/js/main.a1808215.js",
-    "static/js/453.ed3810f9.chunk.js": "/ClassWork6-React/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/ClassWork6-React/index.html",
-    "main.ea65f660.css.map": "/ClassWork6-React/static/css/main.ea65f660.css.map",
-    "main.a1808215.js.map": "/ClassWork6-React/static/js/main.a1808215.js.map",
-    "453.ed3810f9.chunk.js.map": "/ClassWork6-React/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/CW06-JSAndReact/static/css/main.ea65f660.css",
+    "main.js": "/CW06-JSAndReact/static/js/main.56ba6665.js",
+    "static/js/453.ed3810f9.chunk.js": "/CW06-JSAndReact/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/CW06-JSAndReact/index.html",
+    "main.ea65f660.css.map": "/CW06-JSAndReact/static/css/main.ea65f660.css.map",
+    "main.56ba6665.js.map": "/CW06-JSAndReact/static/js/main.56ba6665.js.map",
+    "453.ed3810f9.chunk.js.map": "/CW06-JSAndReact/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea65f660.css",
-    "static/js/main.a1808215.js"
+    "static/js/main.56ba6665.js"
   ]
 }
