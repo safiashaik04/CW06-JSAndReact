@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ClassWork6-React/static/css/main.ea65f660.css",
+    "main.js": "/ClassWork6-React/static/js/main.a1808215.js",
+    "static/js/453.ed3810f9.chunk.js": "/ClassWork6-React/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/ClassWork6-React/index.html",
+    "main.ea65f660.css.map": "/ClassWork6-React/static/css/main.ea65f660.css.map",
+    "main.a1808215.js.map": "/ClassWork6-React/static/js/main.a1808215.js.map",
+    "453.ed3810f9.chunk.js.map": "/ClassWork6-React/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea65f660.css",
+    "static/js/main.a1808215.js"
+  ]
+}
